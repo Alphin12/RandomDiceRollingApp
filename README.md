@@ -1,11 +1,10 @@
 # DiceRollingApp
 
 A simple Flutter project (Android app)
-Emulator I used while building: Pixel 6 API 33
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Emulator I used while building: Pixel 6 API 33
 
 Reference:
 
